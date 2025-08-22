@@ -1,8 +1,8 @@
-# drosera
+# Drosera Network
 
 ![Drosera Banner](DroseraHeader.jpeg)
 
-**Creating a EVM native and decentralized agent layer**
+**Creating a EVM native and Decentralized Agent Layer**
 
 At Drosera, we are building a decentralized agent layer for the EVM that enables developers to create **Traps**—smart contracts that monitor on-chain data and trigger automated on-chain responses. By leveraging the **Drosera Protocol** and a network of **Operators**, we aim to provide a scalable, trustless framework for DeFi security, general automation and cost efficient Dapps.
 
@@ -48,20 +48,30 @@ Get started with Drosera’s developer-friendly tools and documentation:
 
 Check out our Dapps that leverage the Drosera Protocol for automation and cost effeciency:
 
-- **♟️ [Chess](https://chess.drosera.io)**  
-  Comprehensive guides on running Drosera Operator nodes, creating Traps, and integrating with the Drosera Protocol.
+- **♟️ [Chess](https://chess.drosera.io)**
+- **♟️ [Notacassino](https://notacasino.drosera.io/roulette)**
 
-More coming soon! We are actively developing Dapps that utilize Drosera Traps for various use cases.
+More Dapps are in development, showcasing Drosera’s versatility in automation and cost optimization.
 
 
 ## 🤝 Get Involved
 
 Join our community to contribute to the future of DeFi security:
 
-- **💬 [Discord](https://discord.gg/drosera)**  
+- **💬 [Discord](https://discord.gg/drosera)**
   Connect with developers, Operators, and the Drosera team for support and collaboration.
 
-- **🐦 [Follow us on X](https://x.com/DroseraNetwork)**  
+  Drosera is a home for all, Developers, Artist, Writers Educators and Memelords are all welcome at Drosera
+  
+  - There a four Path in Drosera
+      - The Trappers - They build traps that shape our future
+      - The Writer - They create contents for Drosera
+      - The Artist - They design stunning arts for Drosera
+      - The Keeper - They educate users about Drosera
+
+- **🐦 [Follow us on X](https://x.com/DroseraNetwork)**
+- [Join our X Community](https://twitter.com/i/communities/1914716154712461738)  The Drosera Trappersphere
+
   Stay updated on the latest news, releases, and testnet updates.  
 
 - **🌐 [Website](https://drosera.io)**  
@@ -70,6 +80,12 @@ Join our community to contribute to the future of DeFi security:
 - **📂 Contribute to Traps**  
   Create and share new Trap examples in our [examples repo](https://github.com/drosera-network/examples). The Drosera team reviews and provides feedback to build a robust library for the community.
 
+## How Does Drosera Work?
+  - 1. Traps (Smart Contracts)
+    They’re smart contracts designed to watch, detect, and react to specific on-chain conditions. When triggered, they call emergency functions (pause contracts, alert developers, transfer assets to safe wallets).
+
+  - 2. Operators (Responders)
+    They are a network of nodes that Opt in to Trap, watch Ethereum blocks in real time and execute emergency responses when conditions are met.
 
 ## 🔍 Use Cases
 
@@ -78,6 +94,9 @@ Drosera enables powerful DeFi security applications, including:
 - **Lending Platforms**: Detect low collateralization ratios and automate liquidation alerts.
 - **Decentralized Exchanges**: Identify unusual trading activity or market manipulation.
 - **Time-Series Analysis**: Analyze historical on-chain data to detect patterns like vesting schedules or debt-to-collateral ratios.
+- **Smart Contract Insurance: Monitor contracts for exploits (e.g., reentrancy, oracle attacks) and trigger automated payouts or emergency actions.**
+- **Autonomous DAOs: Automate treasury disbursements, contributor rewards, and milestone-based funding using on-chain metrics.**
+- **Protocol Health Checks: Detect drops in TVL, gas spikes, or user inactivity. Trigger alerts or mitigation strategies automatically.**
 
 
 ## 🌍 Why Drosera?
